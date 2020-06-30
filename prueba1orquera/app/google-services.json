@@ -1,42 +1,34 @@
 {
   "project_info": {
-    "project_number": "118475400614",
-    "firebase_url": "https://prueba1orquera.firebaseio.com",
-    "project_id": "prueba1orquera",
-    "storage_bucket": "prueba1orquera.appspot.com"
+    "project_number": "850941341346",
+    "firebase_url": "https://prueba1oi.firebaseio.com",
+    "project_id": "prueba1oi",
+    "storage_bucket": "prueba1oi.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:118475400614:android:41e995d25aecf5ddd39b67",
+        "mobilesdk_app_id": "1:850941341346:android:e02d08d5ccd677408cb1fb",
         "android_client_info": {
           "package_name": "com.example.prueba1orquera"
         }
       },
       "oauth_client": [
         {
-          "client_id": "118475400614-6hso84ib95kk1tgjnqbb9jmb5usnapen.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.example.prueba1orquera",
-            "certificate_hash": "16f897a4f9ae59f97368a6527d197a76b044b533"
-          }
-        },
-        {
-          "client_id": "118475400614-g0p0skr0vdibjk6rk10bmlfd7mk7fidd.apps.googleusercontent.com",
+          "client_id": "850941341346-p602p3vk9si6q6bjcgcsamc5flpvgfs0.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAM5R4NYuv33PwM5wa_j1hwBTbZ9drJLck"
+          "current_key": "AIzaSyBWyoBeTUJG-mde0BK9knZuDYQRiEcGgdc"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "118475400614-g0p0skr0vdibjk6rk10bmlfd7mk7fidd.apps.googleusercontent.com",
+              "client_id": "850941341346-p602p3vk9si6q6bjcgcsamc5flpvgfs0.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
