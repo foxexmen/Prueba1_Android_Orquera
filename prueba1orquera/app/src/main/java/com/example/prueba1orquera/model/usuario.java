@@ -3,10 +3,10 @@ package com.example.prueba1orquera.model;
 public class usuario {
 
 
-    public String Gamertag;
-    public String Nombre;
-    public String Apellido;
-    public String Correo;
+    private String Gamertag;
+    private String Nombre;
+    private String Apellido;
+    private String Correo;
 
     public usuario() {
     }
